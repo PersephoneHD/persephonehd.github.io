@@ -7,7 +7,7 @@
 - Unordered
 - List
 
-Here is my [first page](https://persephonehd.github.io/)
+Here is my [first page](https://persephonehd.github.io)
 
 And here is a picture
 
